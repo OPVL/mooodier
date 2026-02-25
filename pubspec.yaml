@@ -1,7 +1,7 @@
 name: mooodier
 description: Reusable visual component library for building consistent Flutter interfaces.
 version: 0.1.0
-publish_to: none
+repository: https://github.com/OPVL/mooodier
 
 environment:
   sdk: ^3.6.0
